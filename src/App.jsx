@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Navbar from './template/navbar'
+import Navbar from './template/Navbar'
 import Hero from './template/Hero'
 import Gallery from './template/Gallery'
 function App() {
