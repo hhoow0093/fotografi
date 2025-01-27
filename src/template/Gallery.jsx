@@ -11,8 +11,8 @@ const Gallery = () => {
           <section className="gallery">
               <div className="container pt-5">
                   <div className="row">
-                      <div className="col-12 col-md-6 kategori-1"><img src= { Dentist } alt="" srcset="" id='dentist' /></div>
-                      <div className="col-12 col-md-6 kategori-2"><img src={fnb} alt="" srcset="" id='fnb'/></div>
+                      <div className="col-12 col-md-6 kategori-1 mt-3"><img src= { Dentist } alt="" srcset="" id='dentist' /></div>
+                      <div className="col-12 col-md-6 kategori-2 mt-3"><img src={fnb} alt="" srcset="" id='fnb'/></div>
                       <div className="col-12 col-md-6 kategori-3 mt-3"><img src={flower} alt="" srcset="" id='flower' /></div>
                       <div className="col-12 col-md-6 kategori-4 mt-3"><img src={aesthetic} alt="" srcset="" id='aes'/></div>
                   </div>
